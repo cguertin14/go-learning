@@ -11,3 +11,10 @@ Different concepts are applied in this repository. Below are useful commands to 
 ```
 $ make context
 ```
+
+## TODO List
+
+* [Mutexes](https://gobyexample.com/mutexes)
+* [Signals](https://gobyexample.com/signals)
+* [Temp Files/Dir](https://gobyexample.com/temporary-files-and-directories)
+* [Benchmarks](https://pkg.go.dev/testing#hdr-Benchmarks)
