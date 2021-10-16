@@ -18,3 +18,4 @@ $ make context
 * [Signals](https://gobyexample.com/signals)
 * [Temp Files/Dir](https://gobyexample.com/temporary-files-and-directories)
 * [Benchmarks](https://pkg.go.dev/testing#hdr-Benchmarks)
+* Unit testing on interfaces in front of structs
